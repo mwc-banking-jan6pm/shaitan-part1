@@ -1,0 +1,3 @@
+Hello everyone
+how are you
+git commands are working or not
